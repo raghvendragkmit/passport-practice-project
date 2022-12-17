@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/raghvendragkmit/passport/issues"
   },
-  "homepage": "https://github.com/raghvendragkmit/passport#readme"
+  "homepage": "https://github.com/raghvendragkmit/passport#readme",
+  "devDependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^6.8.0",
+    "passport": "^0.6.0"
+  }
 }
