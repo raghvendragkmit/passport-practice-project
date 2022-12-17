@@ -1,0 +1,19 @@
+{
+  "name": "passport-practice-project",
+  "version": "1.0.0",
+  "description": "Practice project to learn about passport.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raghvendragkmit/passport.git"
+  },
+  "author": "Raghvendra Khatri",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/raghvendragkmit/passport/issues"
+  },
+  "homepage": "https://github.com/raghvendragkmit/passport#readme"
+}
